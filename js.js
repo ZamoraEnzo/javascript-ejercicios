@@ -24,7 +24,7 @@ return "son identicas"
 }
 return "no son identicas"
 }
-let enzo=funcion(10,10)
+let variable=funcion(10,10)
 console.log(enzo)
 function elevaralcuadrado(num){
 return num**3
